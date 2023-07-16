@@ -25,7 +25,7 @@
                 <img class="w-28 h-28" src="{{ asset('assets/cityhalllogo.png') }}" alt="">
                 <img class="w-28 h-28" src="{{ asset('assets/citc1.png') }}" alt="">
             </div>
-            <form action="" class="h-3/4 w-3/4 bg-transparent lg:ml-24 lg:mb-16 flex flex-col items-center justify-start p-5 gap-5">
+            <form action="" class="h-3/4 w-3/4 bg-transparent lg:ml-14 lg:mr-16 lg:mb-16 flex flex-col items-center justify-start p-5 gap-5">
                 <div class="flex flex-col gap-3 mb-5 w-3/4 justify-start">
                     <h1 class="font-sans font-semibold text-7xl">Register</h1>
                 </div>
