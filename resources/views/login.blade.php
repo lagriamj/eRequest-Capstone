@@ -55,10 +55,13 @@
                         </div>
                     </div>
                     <div class="flex items-start justify-center flex-col w-3/4">
-                        <a class="flex self-end justify-center underline text-main" href="#">Forgot Pasword?</a>
+                        <a class="flex self-end justify-center underline text-main" href="/register">Forgot Pasword?</a>
                     </div>
                     <div class="flex items-start justify-center flex-col w-3/4">
                         <button class="w-full h-14 text-lg font-medium border-2 rounded-lg pl-2 bg-main text-white" type="submit">Login</button>
+                    </div>
+                    <div class="flex items-center justify-center flex-col w-3/4">
+                        <p class="font-medium">Don't have an account? <a href="/register" class="text-red-600 font-semibold">Register here</a></p>
                     </div>
             </div>
             </form>
